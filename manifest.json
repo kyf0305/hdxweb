@@ -1,11 +1,11 @@
 {
-    "name": "meeting_flutter",
-    "short_name": "meeting_flutter",
+    "name": "flutter_hdx",
+    "short_name": "flutter_hdx",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "活动行大会项目",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
